@@ -1,0 +1,1 @@
+Vector addition is done using inputs from the files new1.txt and new2.txt and the outputs are stored in output.txt and output2.txt of serial and parallel execution respectively. using files for the input gives liberty of avoiding RAM management at runtime.
